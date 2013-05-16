@@ -1,0 +1,27 @@
+Madgraph / ATLAS ratios: (to determine K-factor scaling)
+diboson_mt2:	0.780006 +/- 0.0317172
+ttbar_mt2:	0.222357 +/- 0.0373146
+diboson_metrel:	0.640037 +/- 0.019783 #low?
+ttbar_metrel:	0.18177 +/- 0.021302
+diboson_pt:	0.787914 +/- 0.0349708 #weak process so jets should be ok
+ttbar_pt:	0.55792 +/- 0.0180778 #ignore due to miscalculation of jets
+red_mt2:	0.636496 +/- 0.00716667
+blue_mt2:	0.629922 +/- 0.00726777
+
+#mad ee -> real ee
+diboson: 0.700 +/- 0.015
+ttbar: 0.192 +/- 0.018
+
+#mad ee -> real eemumu
+slepton: 0.6333 +/- 0.0051 
+
+ATLAS PT ratios: (to determine ee -> OSSF and ee -> OSall scalings)
+mumu_by_ee_diboson: 1.55287   +/-   0.0877609
+mumu_by_ee_ttbar: 1.35311   +/-   0.0578718
+emu_by_ee_diboson: 1.66073   +/-   0.0938039
+emu_by_ee_ttbar: 2.35569   +/-   0.0888712
+
+ee -> OSSF diboson: 2.55287 +/- 0.0877609
+ee -> OSSF ttbar: 2.35311 +/- 0.0578718
+ee -> OSall diboson: 4.2136 +/- 0.12846
+ee -> OSall ttbar: 4.7088 +/- 0.10605
