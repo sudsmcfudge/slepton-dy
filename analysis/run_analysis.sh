@@ -37,7 +37,7 @@ for run in $events_dir/run0_7TeV_mslep_*_mchi_*; do
     n_gen=${n_arr[0]}
     n_matched=${n_arr[1]}
 
-    echo $mslep $mchi $n_pcuts $n_matched $n_gen $sigma_pb >> binoLSP_ATLAS_table.dat
+    echo $mslep $mchi $n_pcuts $n_matched $n_gen $sigma_pb >> binoLSP_7TeV_table.dat
 
 done
 
